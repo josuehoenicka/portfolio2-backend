@@ -1,4 +1,4 @@
-package com.example.argprogapi;
+package com.example.portfolio2;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package com.example.argprogapi;
+package com.example.portfolio2;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

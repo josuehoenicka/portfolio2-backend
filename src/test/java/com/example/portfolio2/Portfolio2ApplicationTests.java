@@ -1,10 +1,10 @@
-package com.example.argprogapi;
+package com.example.portfolio2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ArgProgApiApplicationTests {
+class Portfolio2ApplicationTests {
 	@Test
 	void contextLoads() {
 	}

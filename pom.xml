@@ -9,10 +9,10 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>holamundo</artifactId>
+	<artifactId>portfolio2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>argprog_api</name>
-	<description>Demo project for Spring Boot</description>
+	<name>portfolio2_back</name>
+	<description>Portfolio 2.0 (Back End)</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

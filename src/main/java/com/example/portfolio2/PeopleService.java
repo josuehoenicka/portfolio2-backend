@@ -1,4 +1,4 @@
-package com.example.argprogapi;
+package com.example.portfolio2;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
